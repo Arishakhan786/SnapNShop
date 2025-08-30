@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763032238763",
+    "project_id": "frehas-1d495",
+    "storage_bucket": "frehas-1d495.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763032238763:android:72512ba669980bcac855ee",
+        "android_client_info": {
+          "package_name": "com.example.frehas_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsb0-SysbbjS3GPp6A7z447ILIJuc0B1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
